@@ -11,6 +11,9 @@ $ lein uberjar
 $ java -jar target/tbot-quote-builder-standalone.jar -s ./src/q-src.clj -o ./result/quotes -b http://ohrepos.github.io/pquotes-repo/quotes/ -t @book_quote_bot
 ```
 
+* [ohrepos/quotes-repo - travis](https://travis-ci.org/ohrepos/quotes-repo)
+* [ohrepos/pquotes-repo - travis](https://travis-ci.org/ohrepos/pquotes-repo)
+
 ## read more about tbot-800
 
 * [tbot-800 프로젝트 개발 일기](http://ohyecloudy.com/ddiary/categories.html#tbot-800-ref)
