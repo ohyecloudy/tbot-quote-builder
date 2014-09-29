@@ -6,7 +6,7 @@
 
 ```
 $ lein uberjar
-$ java -jar target/tbot-quote-builder-standalone.jar -s ./src/q-src.clj -o ./result/quotes -b http://ohrepos.github.io/pquotes-repo/quotes/ -t @book\_quote\_bot"
+$ java -jar target/tbot-quote-builder-standalone.jar -s ./src/q-src.clj -o ./result/quotes -b http://ohrepos.github.io/pquotes-repo/quotes/ -t @book_quote_bot
 ```
 
 ## read more about tbot-800
