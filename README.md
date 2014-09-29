@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ohyecloudy/tbot-quote-builder.svg?branch=master)](https://travis-ci.org/ohyecloudy/tbot-quote-builder)
+
 # tbot-quote-builder
 
 [tbot-800](https://github.com/ohyecloudy/tbot-800/)이 사용하는 인용구 빌드.
