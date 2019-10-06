@@ -7,6 +7,5 @@
                  [org.clojure/tools.cli "0.3.1"]
                  [digest "1.4.3"]
                  [hiccup "1.0.4"]]
-  :plugins [[cider/cider-nrepl "0.7.0-SNAPSHOT"]]
   :uberjar-name "tbot-quote-builder-standalone.jar"
   :main tbot-quote-builder.core)
